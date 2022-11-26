@@ -4,6 +4,7 @@
 
 #### 1. Standardize Date Format 
   Utilised to improve visualisation on dates information.
+  
 <img width="217" alt="Screenshot_20221126_104937" src="https://user-images.githubusercontent.com/115903497/204102763-f9040861-353e-46c0-ab67-b7ae3115c5bb.png"><img width="217" alt="Screenshot_20221126_105747" src="https://user-images.githubusercontent.com/115903497/204100167-977b29fb-5fc6-4ba7-9d4d-e177228bc774.png">
 
 
