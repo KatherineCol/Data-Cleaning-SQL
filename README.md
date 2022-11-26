@@ -1,6 +1,6 @@
 # Data-Cleaning-SQL- 
 
-   In this project with the use of  SQL Server Management Studio advanced queries were utilized to clean   and manipulate raw database.
+   Use of  SQL Server Management Studio advanced queries were utilized to clean and manipulate raw database.
 
 #### 1. Standardize Date Format 
   Utilised to improve visualisation on dates information.
@@ -9,7 +9,7 @@
 
 
 #### 2. Breaking out Address into Individual Columns (Address, City, State)
-  Preparing the data to be searchable by address, city, or state.  In the raw data base all this information was in only one raw.
+  Preparing the data to be searchable by address, city, or state.  In the raw data base all this information was in only one column.
 
 #### 3. Populate Property Address data
    Here we manage the null address rows by populating the appropiate addresses.
