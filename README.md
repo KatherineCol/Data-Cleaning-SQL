@@ -1,4 +1,4 @@
-# Data-Cleaning-SQL- 
+# Data Cleaning SQL 
 
    Use of  SQL Server Management Studio advanced queries were utilized to clean and manipulate raw database.
 
