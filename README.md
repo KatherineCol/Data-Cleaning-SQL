@@ -1,7 +1,6 @@
 # Data Cleaning SQL 
 
-   Use of  SQL Server Management Studio advanced queries were utilized to clean and manipulate raw database.
-
+Advanced queries in SQL Server Management Studio were utilized to clean and manipulate the raw database.
 #### 1. Standardize Date Format 
          Utilised to improve visualisation on dates information.
   
